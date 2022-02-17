@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-24T23:14:27 ICT" name="Suite" finished-at="2021-09-24T23:15:18 ICT" duration-ms="51051">
+    <groups>
+    </groups>
+    <test started-at="2021-09-24T23:14:27 ICT" name="Test" finished-at="2021-09-24T23:15:18 ICT" duration-ms="51051">
+      <class name="Test.TestBestSellerProductDisplay">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestBestSellerProductDisplay@f736069]" started-at="2021-09-24T23:14:27 ICT" name="setUp" finished-at="2021-09-24T23:14:36 ICT" duration-ms="8682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Test7BestSellerProductVisible()[pri:0, instance:Test.TestBestSellerProductDisplay@f736069]" started-at="2021-09-24T23:14:36 ICT" name="Test7BestSellerProductVisible" finished-at="2021-09-24T23:14:36 ICT" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test7BestSellerProductVisible -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestBestSellerProductDisplay@f736069]" started-at="2021-09-24T23:14:36 ICT" name="tearDown" finished-at="2021-09-24T23:14:36 ICT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestBestSellerProductDisplay -->
+      <class name="Test.TestMenuSubcategoriesDisplay">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestMenuSubcategoriesDisplay@f0da945]" started-at="2021-09-24T23:14:36 ICT" name="setUp" finished-at="2021-09-24T23:14:45 ICT" duration-ms="8658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Test3MenuSubcategories()[pri:0, instance:Test.TestMenuSubcategoriesDisplay@f0da945]" started-at="2021-09-24T23:14:45 ICT" name="Test3MenuSubcategories" finished-at="2021-09-24T23:14:45 ICT" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3MenuSubcategories -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestMenuSubcategoriesDisplay@f0da945]" started-at="2021-09-24T23:14:45 ICT" name="tearDown" finished-at="2021-09-24T23:14:45 ICT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestMenuSubcategoriesDisplay -->
+      <class name="Test.TestOrderProductSuccessful">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.TestOrderProductSuccessful@4803b726]" started-at="2021-09-24T23:14:45 ICT" name="setUp" finished-at="2021-09-24T23:14:53 ICT" duration-ms="7969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestOrderSuccessful()[pri:0, instance:Test.TestOrderProductSuccessful@4803b726]" started-at="2021-09-24T23:14:53 ICT" name="TestOrderSuccessful" finished-at="2021-09-24T23:15:18 ICT" duration-ms="24216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOrderSuccessful -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.TestOrderProductSuccessful@4803b726]" started-at="2021-09-24T23:15:18 ICT" name="tearDown" finished-at="2021-09-24T23:15:18 ICT" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestOrderProductSuccessful -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
